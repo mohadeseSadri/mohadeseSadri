@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi i'm Mohadese Sadri 👋
+🌱 I’m currently learning js & React 
+👯 I’m looking to collaborate on compony
+💬 Ask me about Html, Css, Bootstrap, Sass, Js, React
 
 <!--
 **mohadeseSadri/mohadeseSadri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
